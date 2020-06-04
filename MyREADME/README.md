@@ -13,3 +13,7 @@ and watch out for those enemies!
 To load the game, simply open the project folder and look for the file named index.html. Double click
 this file, and it will open a browser window with the game fully running. Use your arrow keys to control 
 your avatar. 
+
+
+
+OPEN index.html TO INITIALIZE THE GAME
